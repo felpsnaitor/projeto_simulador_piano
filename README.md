@@ -3,7 +3,7 @@
 <p align="center">
 Projeto feito 100% para testar habilidades.
 
-<h1><a href="https://felpsnaitor.github.io/projeto_simulador_piano/">Acesse o Piano Clicando aqui</a></h1>
+<h1 align="center"><a href="https://felpsnaitor.github.io/projeto_simulador_piano/">Acesse o Piano Clicando aqui</a></h1>
 </p>
 
 <br>
