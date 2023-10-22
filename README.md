@@ -3,7 +3,7 @@
 <p align="center">
 Projeto feito 100% para testar habilidades.
 
-<h1><a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Acesse o Piano Clicando aqui</a></h1>
+<h1><a href="https://felpsnaitor.github.io/projeto_simulador_piano/">Acesse o Piano Clicando aqui</a></h1>
 </p>
 
 <br>
